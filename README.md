@@ -8,7 +8,7 @@ Short and useful program to take full-screen screenshots, define a click positio
 - Python installed on your system.
 - The `pyautogui` library installed. You can install it using pip:
   ```bash
-  pip install pyautogui```
+  pip install pyautogui
 
 ## Usage
 - Make sure you have Python installed on your system.
