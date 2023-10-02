@@ -1,4 +1,6 @@
 # Screenshot and click to PNG
+[![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=social)](LICENSE)
+
 Short and useful program to take full-screen screenshots, define a click position, and save them as a PDF, ideal for extracting information from presentations.
 
 ## Prerequisites
